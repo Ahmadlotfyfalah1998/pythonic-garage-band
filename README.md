@@ -6,5 +6,3 @@
 #### Tests
 #### How do you run tests?
 #### pytest
-#### Describe any tests that you did not complete, skipped, etc
-#### 15 and 16 
